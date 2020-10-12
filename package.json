@@ -1,18 +1,16 @@
 {
-  "name": "basic",
+  "name": "basic-styled-system",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@styled-system/css": "5.1.5",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.3",
     "styled-components": "5.2.0",
     "styled-system": "5.1.5"
-  },
-  "devDependencies": {
-    "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
