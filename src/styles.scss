@@ -1,0 +1,33 @@
+html, body {
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+*, button {
+  font-family: 'Zilla Slab', serif;
+}
+
+.section {
+  width: 100%;
+  margin: 0;
+  padding: 24px;
+  &.a {
+    background-color: #FADBD8;
+  }
+  &.b {
+    background-color: #EBF5FB;
+  }
+  &.c {
+    background-color: #FDF2E9;
+  }
+  &.d {
+    background-color: #D1F2EB;
+  }
+  &.e {
+    background-color: #D7CCC8;
+  }
+}
